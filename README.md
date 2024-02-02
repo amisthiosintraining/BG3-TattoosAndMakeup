@@ -5,7 +5,7 @@ Ongoing project of face tattoos for now.
 
 ## Requirements
 - <a href="https://github.com/LaughingLeader/BG3ModManager/releases">Baldur's Gate 3 Mod Manager</a> by LaughingLeader
-- <a href="https://github.com/Norbyte/bg3se/releases/tag/updater-20231028">Script Extender</a> by Norbyte (if you run into trouble, install this)
+- <a href="https://github.com/Norbyte/bg3se/releases/tag/updater-20231028">Script Extender</a> by Norbyte
 - <a href="https://www.nexusmods.com/baldursgate3/mods/4752">Trips' Old Shader Pack</a> by Tripsadin
 - <a href="https://www.nexusmods.com/baldursgate3/mods/4821">Player and NPC - Old Shaders</a> by Joell560
 - <a href="https://www.nexusmods.com/baldursgate3/mods/4774">Companions - Old Shaders</a> by Joell560
